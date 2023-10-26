@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<body  bgcolor=lightblue>
+
+   
+    <center>  <h1> <u>  CARACTER&Iacute;STICAS T&Eacute;CNICAS: </u>  </h1> </center>
+    
+    <br>
+    
+    <p> <LI> Microchip ATmega328P. </LI>
+    <p> <LI> Voltaje de funcionamiento: 5 voltios. </LI>
+    <p> <LI>Voltaje de entrada:  da: 7 a 20 voltios. </LI>
+    <p> <LI>Pines de E/S digitales: 14 (de los cuales 6 proporcionan salida PWM). </LI>
+    <p> <LI>Pines de entrada anal&oacute;gica: 6. </LI>
+    <p> <LI>Corriente DC por Pin de E/S: 20 mA. </LI>
+    <p> <LI>Corriente CC para Pin de 3.3V: 50 mA. </LI>
+    <p> <LI>Memoria Flash: 32 KB de los cuales 0.5 KB utilizados por el gestor de arranque. </LI>
+    <p> <LI>SRAM: 2 KB. </LI>
+    <p> <LI>EEPROM: 1 KB. </LI>
+    <p> <LI>Velocidad del reloj: 16 MHz. </LI>
+    <p> <LI>Longitud: 68.6mm. </LI>
+    <p> <LI>Ancho: 53,4mm. </LI>
+    <p> <LI>Peso: 25g. </LI>
+    
+    <br>
+
+    <center> <img src="https://www3.gobiernodecanarias.org/medusa/ecoblog/rsuagued/files/2020/01/arduinounor3.png"><div align="center"></center>
+
+    <br>
+
+    <center>  <h1> <u> PINES: </u> </h1></center>
+
+    <br>
+
+   <center><p> <LI>LED: hay un LED que prende incorporado controlado por el pin digital 13. Cuando el pin tiene un valor alto, el LED est&aacute; encendido, cuando el pin est&aacute; bajo, est&aacute; apagado. </LI> 
+    <p> <LI>VIN: el voltaje de entrada a la placa Arduino/Genuino cuando se utiliza una fuente de alimentaci&oacute;n externa (a diferencia de los 5 voltios de la conexi&oacute;n USB u otra fuente de alimentaci&oacute;n regulada). Puede suministrar voltaje a trav&eacute;s de este pin o, si suministra voltaje a trav&eacute;s del conector de alimentaci&oacute;n, acceder a &eacute;l a trav&eacute;s de este pin. </LI>
+    <p> <LI>5V: Este pin emite 5V regulado desde el regulador en el tablero. La placa se puede alimentar con el conector de alimentaci&oacute;n de CC (7-20 V), el conector USB (5 V) o el pin VIN de la placa (7-20 V). El suministro de voltaje a trav&eacute;s de los pines de 5V o 3.3V evita el regulador y puede da&ntilde;ar la placa. </LI>
+    <p> <LI>3V3: un suministro de 3,3 voltios generado por el regulador de la placa. El consumo m&aacute;ximo de corriente es de 50 mA. </LI>
+    <p> <LI>GND: Pines de tierra. </LI>
+    <p> <LI>IOREF: este pin en la placa Arduino/Genuino proporciona el voltaje de referencia con la que funciona el microcontrolador. Un blindaje configurado correctamente puede leer el voltaje del pin IOREF y seleccionar la fuente de alimentaci&oacute;n adecuada o permitir que los traductores de voltaje en las salidas funcionen con 5V o 3.3V. </LI>
+    <p> <LI>Reset: normalmente se usa para agregar un bot&oacute;n de restablecimiento a los aislantes que bloquean el que est&aacute; en el tablero. </LI> </center>
+    
+    <br>
+
+    <center><img src="https://www.electrogeekshop.com/wp-content/uploads/2018/12/7c9dfd832eed7972758545f30d9e6ac9-870x460.jpeg"><div align="center"></center>
+    
+
+    <p><a href="Pagina Principal.html"> Atras </a></p>
