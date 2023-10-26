@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<body  bgcolor=lightblue>
+
+<center> <h1> <u>  TRANSFONDO DEL ARDUINO UNO </u> </h1>
+
+<br>
+     
+<p>El proyecto Arduino se inici&oacute; en el Interaction Design Institute Ivrea (IDII) en Ivrea, Italia. En ese momento, los estudiantes usaron un microcontrolador BASIC Stamp a un costo de $100, un gasto considerable para muchos estudiantes. En 2003, Hernando Barrag&aacute;n cre&oacute; la plataforma de desarrollo Wiring como un proyecto de tesis de maestr&iacute;a en IDII, bajo la supervisi&oacute;n de Massimo Banzi y Casey Reas, quienes son conocidos por su trabajo en el lenguaje de programaci&oacute;n Processing. El objetivo del proyecto era crear herramientas simples y de bajo costo para la creaci&oacute;n de proyectos digitales por parte de personas que no eran ingenieros. La plataforma de cableado consist&iacute;a en una placa de circuito impreso (PCB) con un microcontrolador ATmega 168, un IDE basado en funciones de procesamiento y biblioteca para programar f&aacute;cilmente el microcontrolador. En 2003, Massimo Banzi, con David Mellis, otro estudiante de IDII, y David Cuartielles, agregaron soporte para el microcontrolador ATmega8 m&aacute;s barato a Wiring. Pero en lugar de continuar con el trabajo en Wiring, bifurcaron el proyecto y lo renombraron como Arduino. Las primeras placas Arduino utilizaron el chip controlador USB a serie FTDI y un ATmega 168. El Uno difer&iacute;a de todas las placas anteriores al presentar el microcontrolador ATmega328P y un ATmega16U2 (Atmega8U2 hasta la versi&oacute;n R2) programado como un USB a convertidor de serie. </center>
+         
+<br>
+
+<br>
+
+<center><img src="https://www.vistronica.com/10941-large_default/arduino-uno-r3-compatible.jpg"><div align="center"></center>
+         
+<p><a href="Pagina Principal.html"> Atras </a></p>
