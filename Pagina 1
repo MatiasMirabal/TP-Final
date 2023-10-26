@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<body  bgcolor=lightblue>
+
+    <center>  <h1> <u> FUNCIONES ESPACIALES DE PIN </u> </h1>
+
+    <br>
+
+    <img src="https://miro.medium.com/v2/resize:fit:720/0*p2M6WXvU4wKuWuTZ"><div align="center"></center>
+
+    <br>
+
+    <p> Cada uno de los 14 pines digitales y 6 pines anal&oacute;gicos del Uno se puede usar como entrada o salida, utilizando las funciones pinMode(), digitalWrite() y digitalRead(). Operan a 5 voltios. Cada pin puede proporcionar o recibir 20 mA seg&uacute;n las condiciones de funcionamiento recomendadas y tiene una resistencia de pull-up interna (desconectada por defecto) de 20-50 kohm. Un m&aacute;ximo de 40 mA es el valor que no debe excederse en ning&uacute;n pin de E/S para evitar da&ntilde;os permanentes al microcontrolador. El Uno tiene 6 entradas anal&oacute;gicas, etiquetadas de A0 a A5, cada una de las cuales proporciona 10 bits de resoluc&oacute;n (es decir, 1024 valores diferentes). Por defecto, miden desde tierra hasta 5 voltios, aunque es posible cambiar el extremo superior de su rango utilizando el pin AREF y la funci&oacute;n analogReference().
+    
+    <h3>Adem&aacute;s, algunos pines tienen funciones especializadas: </h3>
+
+    <p> <li>Serie/UART: pines 0 (RX) y 1 (TX). Se utiliza para recibir (RX) y transmitir (TX) datos en serie TTL. Estos pines est&aacute;n conectados a los pines correspondientes del chip serial ATmega8U2 USB a TTL.</li>
+    <p> <li>Interruptores externos: pines 2 y 3. Estos pines se pueden configurar para activar una interrupci&oacute;n en un valor bajo, un borde ascendente o descendente, o un cambio de valor.</li>
+    <p> <li>PWM (modulaci&oacute;n de ancho de pulso): 3, 5, 6, 9, 10 y 11. Puede proporcionar una salida PWM de 8 bits con la funci&oacute;n analogWrite.</li>
+    <p> <li>SPI (interfaz perif&eacute;rica en serie): 10 (SS), 11 (MOSI), 12 (MISO), 13 (SCK). Estos pines admiten la comunicaci&oacute;n SPI utilizando la biblioteca SPI.</li>
+    <p> <li>TWI (interfaz de dos cables)/I<sup>2</sup>C: pin A4 o SDA y pin A5 o SCL. Admite la comunicaci&oacute;n TWI utilizando la biblioteca Wire.</li>
+    <p> <li>AREF (referencia anal&oacute;gica): voltaje de referencia para las entradas anal&oacute;acute;gicas.</li> </center>
+
+
+    <p><a href="Pagina Principal.html"> Atras </a></p>
